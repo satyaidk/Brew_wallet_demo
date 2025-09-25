@@ -27,7 +27,7 @@ yarn dev
 Open http://localhost:3000 in your browser and see the magic happen!
 
 
-## The Techie Stuff 👨‍🏭
+## The Techie Stuff 
 
 Under the hood, Brewit Wallet is built on a Safe smart account, fully compatible with ERC-4337. This ensures smooth gas and account abstraction, making your life easier.
 
