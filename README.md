@@ -1,4 +1,4 @@
-## Get Started 🤝
+## Get Started 
 
 Ready to join the Brewit revolution? Follow these steps:
 
