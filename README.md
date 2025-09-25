@@ -7,7 +7,7 @@ Ready to join the Brewit revolution? Follow these steps:
 Grab the code from GitHub:
 
 ```bash
-git clone https://github.com/brewitmoney/wallet-app-alpha.git
+git clone https://github.com/satyaidk/wallet-app-alpha.git
 ```
 Install the dependencies:
 ```
