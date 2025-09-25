@@ -40,4 +40,3 @@ To keep everything running smoothly, we've got a scheduler service that uses a R
 
 All the contracts and Scheduler bot APIs are hosted in the zerowallet-contracts repository. Go check it out!
 
-# Brew_Wallet_Demo
